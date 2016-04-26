@@ -2,7 +2,7 @@
 
 ## v0.2.0
 
-* Library now used Jackson 2.x annotations. (com.fasterxml)
+* Library now use Jackson 2.x annotations. (com.fasterxml)
 
 ## v0.1.0
 
